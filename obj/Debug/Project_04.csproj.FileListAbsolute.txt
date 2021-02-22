@@ -1,0 +1,10 @@
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\bin\Debug\Project_04.exe.config
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\bin\Debug\Project_04.exe
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\bin\Debug\Project_04.pdb
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.csprojAssemblyReference.cache
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.FormIceCreamShop.resources
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.Properties.Resources.resources
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.csproj.GenerateResource.cache
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.csproj.CoreCompileInputs.cache
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.exe
+C:\Users\rohitp\Desktop\CSC2020\Apps_Programming\ProjectAssignments\04\Project_04\obj\Debug\Project_04.pdb
